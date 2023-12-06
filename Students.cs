@@ -43,7 +43,7 @@ namespace StudentManagementSystem
             Console.WriteLine("6 - Save students to a file");
             Console.WriteLine("7 - Read students from a file");
             Console.WriteLine("8 - Increase students' ages by 10 years");
-            Console.WriteLine("9 - Exit the program");
+            Console.WriteLine("9 - Exit program");
 
 
         }
